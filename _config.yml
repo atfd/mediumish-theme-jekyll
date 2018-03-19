@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Mediumish
+name: JAMstack Bakery
 description: Jekyll Template for Blogging
 meta_description: Jekyll template, Medium styled, free for bloggers.
 logo: assets/images/logo.png
